@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Ali Yehia
 
-<!--
-**ayehia8/ayehia8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Ain Shams University  
+💻 Full-Stack .NET Trainee at DEPI  
 
-Here are some ideas to get you started:
+## 💡 About Me
+Skilled programmer with strong programming fundamentals.
+Currently specializing in Full-Stack .NET development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- C#
+- .NET
+- SQL Server
+- OOP
+- Git
+
+## 🚀 Current Goal
+Becoming a professional Full-Stack .NET Developer.
