@@ -1,60 +1,66 @@
 # Hi 👋 I'm Ali Yehia
 
 🎓 Computer Science Student at Ain Shams University  
-💻 Full-Stack .NET Trainee at DEPI  
+💻 Full-Stack .NET Developer (Trainee) at DEPI  
 
-💻 About Me
+---
 
-I am a Computer Science student at Ain Shams University and a passionate programmer with a strong understanding of programming fundamentals and software development principles. I enjoy building structured and efficient applications and continuously improving my problem-solving and coding skills.
+## 👨‍💻 About Me
 
-Currently, I am focusing on Full-Stack development using the .NET ecosystem through my training at the Digital Egypt Pioneers Initiative (DEPI), where I am gaining hands-on experience in building modern web applications and working with real-world development tools.
+I am a passionate programmer and Computer Science student at Ain Shams University. I enjoy building efficient and well-structured software systems while continuously improving my development skills.
 
-I have experience working with object-oriented programming and designing systems that are clean, maintainable, and efficient. I enjoy turning ideas into practical applications and learning new technologies that help me grow as a developer.
+Currently, I am specializing in Full-Stack development using the .NET ecosystem through my training at the Digital Egypt Pioneers Initiative (DEPI). During this journey, I am gaining practical experience in building web applications, working with databases, and applying modern development practices.
 
-🚀 What I'm Currently Learning
+I focus on writing clean, maintainable code and designing systems that are scalable and organized.
 
-Full-Stack Development with .NET
+---
 
-ASP.NET Core
+## 🛠️ Tech Stack
 
-REST APIs
+**Languages**
+- C#
+- C++
+- Java
 
-Database Development
+**Frameworks & Technologies**
+- .NET
+- ASP.NET Core
 
-Web Application Architecture
+**Database**
+- SQL Server
 
-🛠️ Technical Skills
+**Tools**
+- Git
+- GitHub
+- Visual Studio
+- VS Code
 
-Languages: C#, C++, Java
+---
 
-Frameworks: .NET, ASP.NET Core
+## 📂 Featured Projects
 
-Database: SQL Server
+### Real Estate Management System
+- Implemented using C++
+- Used `map` for efficient property storage and search
+- Used `queue` to manage customer requests in FIFO order
+- Applied object-oriented programming concepts
 
-Concepts: Object-Oriented Programming (OOP)
+### ASP.NET Web Applications
+- Building full-stack web applications
+- Implementing REST APIs
+- Connecting applications to databases
 
-Tools: Git, GitHub, Visual Studio, VS Code
+---
 
-📂 Projects
-Real Estate Management System
+## 🚀 Current Focus
 
-Built a system to manage property listings and customer requests
+- Full-Stack .NET Development  
+- Building real-world web applications  
+- Improving software design and architecture  
 
-Used map for efficient data storage and retrieval
+---
 
-Used queue to process customer requests in order
+## 📫 Connect With Me
 
-Applied object-oriented programming principles
-
-Web Applications (.NET)
-
-Building full-stack applications using ASP.NET Core
-
-Working with databases and APIs
-
-Applying clean code practices
-
-
-🎯 Goals
-
-My goal is to become a professional Full-Stack .NET Developer and contribute to building real-world applications that solve meaningful problems.
+- LinkedIn: (your linkedin link)
+- Portfolio: (your portfolio link)
