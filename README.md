@@ -62,5 +62,4 @@ I focus on writing clean, maintainable code and designing systems that are scala
 
 ## 📫 Connect With Me
 
-- LinkedIn: (your linkedin link)
-- Portfolio: (your portfolio link)
+- LinkedIn: www.linkedin.com/in/ali-yehai
